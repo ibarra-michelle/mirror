@@ -1,4 +1,7 @@
 # Mirroring Between Organizations
+This repository tests the [Mirroring Repository](https://github.com/marketplace/actions/mirroring-repository) GitHub Action. 
+
+View the mirrored repository here: [testorg-2020/mirror](https://github.com/testorg-2020/mirror)
 
 ### Disclaimer
 
